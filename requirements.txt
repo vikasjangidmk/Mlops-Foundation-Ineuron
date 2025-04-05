@@ -1,0 +1,11 @@
+ipykernel
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+
+-e .  # Uncomment this line if you want to install the package in editable mode

@@ -1,0 +1,19 @@
+ipykernel
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+
+-e .  # Uncomment this line if you want to install the package in editable mode
+
+#Dev requirements for testing and development
+pytest
+tox
+black
+flake8
+mypy
+
